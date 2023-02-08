@@ -1,10 +1,8 @@
 **<h1>Adam Simonini</h1>**
 
-<p>
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=false&width=435&lines=Senior+Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=false&width=435&lines=Senior+Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
 
+</br>
 I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦 Canada </b>
 
 **<h2>Key Experiences</h2>**
@@ -70,33 +68,15 @@ I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<!-- <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/adamsimonini/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/adamsimonini/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/adamsimonini/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/adamsimonini/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adamsimonini/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsimonini&layout=compact&theme=dark) -->
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/adamsimonini" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamsimonini&theme=great-gatsby&show_icons=true)
 
-<!-- <a href="https://twitter.com/ajsim" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
+**<h2>Where to find me</h2>**
 
+<p>
+
+<a href="https://github.com/adamsimonini" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/adamsimonini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->

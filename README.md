@@ -19,7 +19,7 @@ I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦
 
 > **Code for Canada Fellowship**: worked in an agile, cross-functional team to rapidly prototype and deliver a fullstack application that improves an important government service
 
-**<h2>Technologies & Tools I Use</h2>**
+**<h2>Technologies & Tools</h2>**
 
 <h3>Frontend Languages & Frameworks</h3>
 <p>

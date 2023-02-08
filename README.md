@@ -1,31 +1,27 @@
-<style>
-    h1 {
-        color: green;
-        font-weight:700;
-        font-size: 30px;
-    }
-</style>
+**<h1>Adam Simonini</h1>**
 
-<p style="text-align: center; width: 100%; color: red">
-    <h1>Adam Simonini</h1>
-</p>
-
-<p align="center">
+<p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20Web%20Developer;Strong%20Team%20Leader;Experienced%20UX%20Researcher;6%2B%20Years%20of%20Coding%20Experience;Perpetual%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=false&width=435&lines=Senior+Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
 </p>
 
-I'm Adam, a fullstack developer from <b>Toronto, Canada</b>, where I currently reside and work.
+I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦 Canada </b>
 
 **<h2>Key Experiences</h2>**
 
-<ul>
+<!-- <ul>
     <li>Senior Fullstack Developer: led multiple teams within the Public Health Agency of Canada to build modern web applications for the health and safety of Canadians</li>
     <li>Fullstack Coding Bootcamp Instructor: led in-depth coding sessions on modern web development languages, taught data structures and algorithm</li>
     <li>Code for Canada Fellowship: worked in a cross-functional team in an angile manner to rapidly prototype a fullstack application for government </li>
-</ul>
+</ul> -->
 
-**<h2>Technologies I have experience with</h2>**
+> **Senior Fullstack Developer**: led multiple teams within the Public Health Agency of Canada to build modern web applications for the health and safety of Canadians
+
+> **Fullstack Coding Bootcamp Instructor**: led in-depth coding sessions on modern web development languages, data structures, and algorithms
+
+> **Code for Canada Fellowship**: worked in an agile, cross-functional team to rapidly prototype and deliver a fullstack application that improves an important government service
+
+**<h2>Technologies & Tools I Use</h2>**
 
 <p>
     <h3>Frontend Languages & Frameworks</h3>
@@ -95,23 +91,6 @@ I'm Adam, a fullstack developer from <b>Toronto, Canada</b>, where I currently r
     </tr>
   </tbody>
 </table> -->
-
-<h3>Toronto 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg8" version="1.1" viewBox="0 0 9600 4800" height="15" width="30">
-  <metadata id="metadata14">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs12"/>
-  <title id="title2">Flag of Canada (Pantone colours)</title>
-  <path style="fill:#da291c" id="path4" d="m 0,0 h 2400 l 99,99 H 7101 L 7200,0 H 9600 V 4800 H 7200 l -99,-99 H 2499 l -99,99 H 0 Z"/>
-  <path style="fill:#ffffff" id="path6" d="M 2400,0 H 7200 V 4800 H 2400 Z m 2490,4430 -45,-863 a 95,95 0 0 1 111,-98 l 859,151 -116,-320 a 65,65 0 0 1 20,-73 l 941,-762 -212,-99 a 65,65 0 0 1 -34,-79 l 186,-572 -542,115 a 65,65 0 0 1 -73,-38 l -105,-247 -423,454 a 65,65 0 0 1 -111,-57 l 204,-1052 -327,189 a 65,65 0 0 1 -91,-27 l -332,-652 -332,652 a 65,65 0 0 1 -91,27 l -327,-189 204,1052 a 65,65 0 0 1 -111,57 l -423,-454 -105,247 a 65,65 0 0 1 -73,38 l -542,-115 186,572 a 65,65 0 0 1 -34,79 l -212,99 941,762 a 65,65 0 0 1 20,73 l -116,320 859,-151 a 95,95 0 0 1 111,98 l -45,863 z"/>
-</svg>
-Canada!</h3>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/adamsimonini" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>

@@ -13,7 +13,7 @@ I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦
     <li>Code for Canada Fellowship: worked in a cross-functional team in an angile manner to rapidly prototype a fullstack application for government </li>
 </ul> -->
 
-> **Senior Fullstack Developer**: led multiple teams within the Public Health Agency of Canada to build modern web applications for the health and safety of Canadians
+> **Fullstack Developer**: led multiple teams within the Public Health Agency of Canada to build modern web applications for the health and safety of Canadians
 
 > **Fullstack Coding Bootcamp Instructor**: led in-depth coding sessions on modern web development languages, data structures, and algorithms
 

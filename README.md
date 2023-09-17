@@ -1,6 +1,6 @@
 **<h1>Adam Simonini</h1>**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=true&width=435&lines=Senior+Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=true&width=435&lines=Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
 
 </br>
 I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦 Canada </b>
@@ -70,7 +70,7 @@ I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsimonini&layout=compact&theme=dark) -->
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamsimonini&theme=great-gatsby&show_icons=true)
+<!-- ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamsimonini&theme=great-gatsby&show_icons=true) -->
 
 **<h2>Where to find me</h2>**
 

@@ -1,6 +1,6 @@
 **<h1>Adam Simonini</h1>**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=true&width=435&lines=Fullstack+Developer;Experienced+Team+Lead;6%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&repeat=true&width=435&lines=Fullstack+Developer;Experienced+Team+Lead;8%2B+Years+Coding+Experience;Perpetual+Learner;Senior+Fullstack+Developer"/>
 
 </br>
 I'm Adam, a fullstack developer working out of my hometown: <b>Toronto, 🇨🇦 Canada </b>
